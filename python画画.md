@@ -1,7 +1,7 @@
 ---
 title: python画画
 date: 2023-10-06 14:55:02
-tags: [笔记, python]
+tags: [笔记, python, turtle]
 ---
 
 # 
