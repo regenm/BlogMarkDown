@@ -26,3 +26,16 @@ tags: [笔记, about]
 
 ​	感谢开源大佬们的贡献，让我这样的小白也可以有自己的博客，同时也希望自己在不久的将来也能在开源社区做出一点贡献。
 
+# update
+
+## 	**Blog 转到了github !**
+
+ * 原因
+
+    由于最近gitee的gitee pages服务不太稳定，可能是不让用了？因此转到了github，发现速度不必gitee慢！打算以后长期使用github了！
+
+    ![gitee issues pages can not update](/images/gitee_issue_pages.png)
+
+    
+
+[new Blog repo](https://github.com/regenm/regenm.github.io)
