@@ -1,7 +1,7 @@
 ---
 title: mqttSender
 date: 2024-04-27 13:48:17
-tags: [笔记, linux, mqtt, IoT, mosquitto,python,GUI,software] 
+tags: [笔记, linux, mqtt, IoT, mosquitto,python,GUI,software,项目] 
 ---
 
 用于记录项目mqttSender
