@@ -1,7 +1,7 @@
 ---
 title: Linux Notes
 date: 2023-11-28 19:49:18
-tags: [笔记, linux, system]
+tags: [笔记, linux, system,command]
 ---
 
 

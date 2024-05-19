@@ -7,7 +7,7 @@ tags: [project ,STM32,IIC,OLED,notes,笔记]
 # IIC 通信原理
 
 ## 基本介绍
-[点击跳转](link to be added)
+[点击跳转](https://regenm.github.io/2024/01/29/%E5%B8%B8%E8%A7%81%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE%E4%BB%A5%E5%8F%8A%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F/)
 
 ## 原理介绍
 
